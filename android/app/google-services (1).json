@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "117381325693",
+    "firebase_url": "https://innovuratech-default-rtdb.firebaseio.com",
+    "project_id": "innovuratech",
+    "storage_bucket": "innovuratech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117381325693:android:f2d21ee722f55281b5e214",
+        "android_client_info": {
+          "package_name": "com.example.innovuratech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117381325693-b823hbanbnab2fh1pscre7138t24gjg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAltEmpGONHkGtznr3HjdssUMrYGNz0Iog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117381325693-b823hbanbnab2fh1pscre7138t24gjg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
